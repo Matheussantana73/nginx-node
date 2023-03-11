@@ -13,6 +13,4 @@ O retorno da aplicação node.js para o nginx deverá ser:
 A aplicação estará disponível na porta `8080`.
 
 ## Comando
-- `cd nginx-node/node`
-- `npm i`
 - `docker-compose up -d`
